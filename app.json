@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "mobile",
-    "slug": "mobile",
+    "name": "AutoHome",
+    "slug": "AutoHome",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/home1024.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "splash": {
@@ -23,9 +23,10 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "foregroundImage": "./assets/images/home1024.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.gandalf.AutoHome"
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
